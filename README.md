@@ -48,7 +48,7 @@ Featured Projects
 
 * Using Holmes as base (Agentic AI) designed a user chat bot, which will work in analysing problem on cluster and provide RCA.
 * Backend using FastAPI
-* Frontend using React
+* Frontend using OpenwebUI
 * RAG - for internal documents to be loaded to vector DB(Chroma)
 * custom tools for the execution to make it Agentic AI
 * Runbooks to make Agentic AI follow the steps rather than hallucinating.
