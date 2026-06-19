@@ -63,7 +63,7 @@ Exploring:
 * Retrieval strategies
 * LLM response grounding
 
-## 🌱 Currently Learning
+### Currently Learning
 
 * Advanced AI Agent architectures
 * Production deployment patterns for AI systems
@@ -71,7 +71,7 @@ Exploring:
 * Observability for distributed applications
 * Scalable system design
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always interested in discussing:
 
